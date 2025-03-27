@@ -2,3 +2,4 @@
 **/__pycache__/
 fasthtml/
 flask/
+email_signups.csv
