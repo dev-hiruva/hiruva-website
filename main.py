@@ -1,6 +1,5 @@
 from flask import Flask, render_template, request, redirect, url_for, flash
 import os
-import vercel_blob 
 import requests
 from dotenv import load_dotenv
 load_dotenv()
